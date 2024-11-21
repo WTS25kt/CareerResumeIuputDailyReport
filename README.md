@@ -1,0 +1,2 @@
+# CareerResumeIuputDailyReport
+日報をインプットにスキルシートや自己PRを作成更新してくれるアプリ
